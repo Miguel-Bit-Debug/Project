@@ -6,6 +6,11 @@ namespace Project.Domain.Models
     {
         [Required]
         [Display(Name = "Nome")]
-        public string Name { get; set; }
+        public string UserName { get; set; }
+
+        [Required]
+        [Display(Name = "E-mail")]
+        [EmailAddress]
+        public string Email { get; set; }
     }
 }
