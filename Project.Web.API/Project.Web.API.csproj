@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>Project.Web.API</AssemblyName>
+    <RootNamespace>Project.Web.API</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

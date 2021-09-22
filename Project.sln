@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{CA5166C4-D21F-4A05-B41F-EE8AD3188526}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project.Web.API.Auth", "Project.Web.API\Project.Web.API.Auth.csproj", "{3A423643-9E74-4737-8969-3BB6F6324D9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project.Web.API", "Project.Web.API\Project.Web.API.csproj", "{3A423643-9E74-4737-8969-3BB6F6324D9C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project.Domain", "Project.Domain\Project.Domain.csproj", "{F1C0DD1F-5F15-48F5-8E0D-9900C5FC2970}"
 EndProject
